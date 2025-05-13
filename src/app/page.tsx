@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { SiNextdotjs, SiReact, SiTypescript, SiHtml5, SiJavascript, SiCss3, SiPython } from 'react-icons/si';
+import { SiNextdotjs, SiReact, SiTypescript, SiHtml5, SiJavascript, SiCss3, SiPython } from "react-icons/si";
 
 export default function HomePage() {
   return (
